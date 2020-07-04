@@ -1,0 +1,49 @@
+
+
+.container-content-1{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.img-tuna img{
+   
+
+}
+.tuna{
+    padding-top: 1em;
+    font-size: 30px;
+    color: #3b98c9;
+}
+
+.detail{
+    font-family: Roboto;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: #939393;
+    font-weight: 200;
+}
+
+.detail-small{
+    line-height: 1.40;
+    font-family: Roboto;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #939393;
+    font-weight: 200;
+}
+
+.line hr{
+    border: 1px solid #f9891b;
+}
+
+.hr-contant-1{
+    border: 1px solid #3b98c9;
+}
+
+.SPEICIES{
+    letter-spacing: 2px;
+    font-family: Roboto;
+    font-size: 50px;
+    color: #ddc7a9;
+}
+
